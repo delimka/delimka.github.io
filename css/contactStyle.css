@@ -1,0 +1,14 @@
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+
+body {
+    padding: 100px;
+}
+
+.contact__img{
+
+}
