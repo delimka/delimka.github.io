@@ -376,7 +376,7 @@ padding-right: 1em;
 
 }
 .services {
-    max-width: 500px;
+    max-width: 1000px;
     margin: auto;
 
 }
@@ -388,7 +388,7 @@ padding-right: 1em;
 {
     .services {
         display: flex;
-        max-width: 1000px;
+        max-width: max-content;
         margin: auto;
 
     }
